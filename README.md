@@ -1,2 +1,0 @@
-# stupidtest
-for testing purposes
